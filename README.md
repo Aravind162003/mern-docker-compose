@@ -14,4 +14,4 @@ WRITE docker-compose.yaml file (check in github repository)
 
 USE SINGLE COMMAND TO CREATE AND RUN THE CONTAINER:
 
-docker compose up -d
+- docker compose up -d
